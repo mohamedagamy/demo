@@ -1,14 +1,107 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": 2,
+        "access_list_mobile": [
+            {
+                "id": 1,
+                "title": "Advertisement",
+                "key": "advertisement"
+            },
+            {
+                "id": 16,
+                "title": "Bundles",
+                "key": "bundles"
+            },
+            {
+                "id": 21,
+                "title": "Bills",
+                "key": "bills"
+            },
+            {
+                "id": 18,
+                "title": "Bundles Build Your Bundle",
+                "key": "bundles_build_your_bundle"
+            },
+            {
+                "id": 17,
+                "title": "Bundles Find Your Bundle",
+                "key": "bundles_find_your_bundle"
+            },
+            {
+                "id": 4,
+                "title": "Dashboard Entertainment",
+                "key": "dashboard_entertainment"
+            },
+            {
+                "id": 2,
+                "title": "Dashboard Recharge Meter",
+                "key": "dashboard_recharge_meter"
+            },
+            {
+                "id": 6,
+                "title": "Discover Advertisement",
+                "key": "discover_advertisement"
+            },
+            {
+                "id": 5,
+                "title": "Discover Something Extra",
+                "key": "add_something_extra"
+            },
+            {
+                "id": 19,
+                "title": "International Rates & Bundles",
+                "key": "international_rates_bundles"
+            },
+            {
+                "id": 7,
+                "title": "Number Activity",
+                "key": "number_activity"
+            },
+            {
+                "id": 11,
+                "title": "Number Activity Recharge Balance",
+                "key": "number_activity_recharge_balance"
+            },
+            {
+                "id": 12,
+                "title": "Number Activity Recharge Data",
+                "key": "number_activity_recharge_data"
+            },
+            {
+                "id": 13,
+                "title": "Number Activity Transfer",
+                "key": "number_activity_transfer"
+            },
+            {
+                "id": 8,
+                "title": "Number Activity Usage Calls",
+                "key": "number_activity_usage_calls"
+            },
+            {
+                "id": 9,
+                "title": "Number Activity Usage Data",
+                "key": "number_activity_usage_data"
+            },
+            {
+                "id": 10,
+                "title": "Number Activity Usage SMS",
+                "key": "number_activity_usage_sms"
+            },
+            {
+                "id": 14,
+                "title": "Recharge",
+                "key": "recharge"
+            },
+            {
+                "id": 20,
+                "title": "Roaming Rates & Bundles",
+                "key": "roaming_rates_bundles"
+            },
+            {
+                "id": 15,
+                "title": "Transfer",
+                "key": "transfer"
+            }
+        ]
+    }
+]
